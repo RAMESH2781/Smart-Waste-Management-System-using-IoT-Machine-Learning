@@ -27,7 +27,7 @@ React (MERN Stack), REST APIs
 2. Random Forest for fill level prediction
 
 ## Data Flow
-Sensors → ESP32 → ThingSpeak → API → ML Models → Backend → React Dashboard
+Sensors → ESP32 → ThingSpeak → API → ML Models → Backend → Dashboard
 
 ## Future Scope
 Image based waste segregation, computer vision, mobile app,
